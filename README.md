@@ -6,11 +6,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranav0728&label=Profile%20views&color=0e75b6&style=flat" alt="pranav0728" /> </p>
 
-- 🌱 I’m currently learning **React.js,**
+- 🌱 I’m currently learning **React.js,Programming Languages**
 
 - 👨‍💻 All of my projects are available at [https://replit.com/@PranavMolawade](https://replit.com/@PranavMolawade)
 
-- 💬 Ask me about **HTML,CSS,Javascript**
+- 💬 Ask me about **HTML,CSS,Javascript,C,Java**
 
 - 📫 How to reach me **pranavmolawade123@gmail.com**
 
@@ -19,7 +19,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/molawade_pranav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="molawade_pranav" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/pranav molawade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pranav molawade" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/pranav-molawade-553478236/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pranav molawade" height="30" width="40" /></a>
 <a href="https://instagram.com/pranav_2_8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pranav_2_8" height="30" width="40" /></a>
 </p>
 
