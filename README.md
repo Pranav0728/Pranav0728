@@ -1,4 +1,4 @@
-![logo](https://github.com/Pranav0728/Pranav0728/blob/main/banner12.gif)
+![logo](https://github.com/Pranav0728/Pranav0728/blob/main/final_banner.gif)
 <h1 align="center">Hi 👋, I'm Pranav Molawade</h1>
 <h3 align="center">A passionate developer from India</h3>
 
