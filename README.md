@@ -3,11 +3,8 @@
 <h3 align="center">A passionate developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranav0728&label=Profile%20views&color=0e75b6&style=flat" alt="pranav0728" /> </p>
-- 🌱 I’m currently learning **React.js,Programming Languages**
 
 - 👨‍💻 All of my projects are available at [https://www.pranavmolawade.com](https://www.pranavmolawade.com)
-
-- 💬 Ask me about **HTML,CSS,Javascript,C,Java**
 
 - 📫 How to reach me **pranavmolawade123@gmail.com**
 
